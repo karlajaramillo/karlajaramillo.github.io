@@ -14,6 +14,10 @@ of a paragraph. The _same_ goes for italics and __bold__ elements. Even the the 
 works if <del>for some reason you need to update your post</del>. For consistency's sake,
 <ins>The same goes for insertions</ins>, of course.
 
+### Local image
+
+![Test image](/images/me.jpeg)
+
 ### Code, with syntax highlighting
 
 Here's an example of some ruby code with line anchors.
