@@ -1,7 +1,7 @@
 // Typography
 $base-font-size: 14px !default;
 $bold-font-weight: bold !default;
-$font-family: 'Merriweather', 'PT Serif', Georgia, 'Times New Roman', serif !default;
+$font-family: 'Raleway', 'PT Serif', Georgia, 'Times New Roman', serif !default;
 $line-height: 1.5 !default;
 $heading-font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif !default;
 $heading-font-weight: 900 !default;
@@ -10,7 +10,7 @@ $monospace-font-family: 'Source Code Pro', Consolas, monospace !default;
 $h1: 2rem !default;
 $h2: 1.5rem !default;
 $h3: 1.25rem !default;
-$h4: 1rem !default;
+$h4: 1.15rem !default;
 $h5: .875rem !default;
 $h6: .75rem !default;
 $h00: 4rem !default;
@@ -32,18 +32,18 @@ $viewport-medium: 48rem;
 $viewport-large: 64rem;
 
 // Colors
-$blue: #0076df !default;
-$red: #f95020 !default;
-$green: #00cf26 !default;
+$blue: #61d4ed !default;
+$red: #ef4836 !default;
+$green: #36d7b7 !default;
 $yellow: #efcc00 !default;
-$orange: #ffcc22 !default;
+$orange: #f89406 !default;
 $purple: #f92080 !default;
 $dark-blue: #00369f !default;
 $dark-green: #00ab37 !default;
 $dark-green: #009f06 !default;
 $light-pink: #ffdddd !default;
 $light-green: #ddffdd !default;
-$dark-gray: #333 !default;
+$dark-gray: #666 !default;
 $mid-gray: #777 !default;
 $light-gray: #ccc !default;
 $lighter-gray: #eee !default;
@@ -51,10 +51,11 @@ $darken-1: rgba(#000,.0625) !default;
 $darken-2: rgba(#000,.125) !default;
 $darken-3: rgba(#000,.25) !default;
 $darken-4: rgba(#000,.5) !default;
+$white-silver: #fdfdfc !default;
 
 // Links
 $link-color: $blue;
-$link-hover-color: darken($blue, 40%);
+$link-hover-color: lighten($blue, 10%);
 
 // Breakpoints
 $breakpoint-md: '(min-width: 52em)';
@@ -114,7 +115,9 @@ $hljs-chunk: $light-gray;
 // Footer
 $footer-border-top: thin solid #f3f3f3;
 $footer-padding: $space-3;
-$footer-color: #7a7a7a;
-$footer-bg-color: #fafafa;
+//$footer-color: #7a7a7a;
+$footer-color: #f2f1ef;
+//$footer-bg-color: #fafafa;
+$footer-bg-color: #3a474d;
 $footer-font-weight: 300;
 $footer-font-size: .75rem;

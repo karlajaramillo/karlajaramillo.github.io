@@ -9,6 +9,9 @@ layout: default
       <div class="post py3">
         <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h1 post-title">{{ post.title }}</h3></a>
+        {% if post.picture %}
+          <img src="{{ post.picture }}" />
+        {% endif %}
         <p class="post-summary">
           {% if post.summary %}
             {{ post.summary }}

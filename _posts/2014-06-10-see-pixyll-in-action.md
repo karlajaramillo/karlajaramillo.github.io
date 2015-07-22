@@ -18,6 +18,13 @@ works if <del>for some reason you need to update your post</del>. For consistenc
 
 ![Test image](/images/me.jpeg)
 
+### Test images
+![Test images](/images/responsive-images/2-nexus.png)
+
+
+![Test images](/images/responsive-images/4-html-css.png)
+
+
 ### Code, with syntax highlighting
 
 Here's an example of some ruby code with line anchors.
