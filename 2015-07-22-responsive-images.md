@@ -22,11 +22,11 @@ As mentioned before, users will access our app using multiple devices. We’ll n
 
 ![Dev tools](/images/responsive-images/1-google.png)
 
-* Device dimensions: CSS pixel dimensions of the device. Really useful for web developers, since CSS and Media Queries will respond to these.
-* DPR: device pixel ratio or CSS pixel ratio, which is the ratio between physical pixels and CSS pixels. It determines how a device resolution is interpreted by the CSS. For instance, Google Nexus 5 will render at 3x.
-* Rendered pixels: device dimensions are multiplied by DPR to render elements. The interpreted resolution for Google Nexus 5 is (360x3) x (640x3) = 1080x1920.
-* Physical pixels: actual pixels of the hardware.
-* Physical size: length of its diagonal in inches.
+- Device dimensions: CSS pixel dimensions of the device. Really useful for web developers, since CSS and Media Queries will respond to these.
+- DPR: device pixel ratio or CSS pixel ratio, which is the ratio between physical pixels and CSS pixels. It determines how a device resolution is interpreted by the CSS. For instance, Google Nexus 5 will render at 3x.
+- Rendered pixels: device dimensions are multiplied by DPR to render elements. The interpreted resolution for Google Nexus 5 is (360x3) x (640x3) = 1080x1920.
+- Physical pixels: actual pixels of the hardware.
+- Physical size: length of its diagonal in inches.
 
 ![image](/images/responsive-images/2-nexus.png)
 

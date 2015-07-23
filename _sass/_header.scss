@@ -4,9 +4,10 @@
 }
 
 .site-header a {
-  color: #333;
-  font-size: $h3;
+  color: #fff;
+  font-size: $h5;
   font-weight: 300;
+  transition: all 0.2s ease-in;
 }
 
 .site-header .site-title {
@@ -18,22 +19,22 @@
 }
 
 .site-header nav a {
-  color: #666;
+  color: #fff;
+  text-transform: uppercase;
+  transition: all 0.2s ease-in;
 }
 
 .site-header nav a:hover,
 .site-header nav a:focus,
 .site-header nav a:active {
-  color: #444;
-  opacity: 1;
-  border-bottom: 2px solid #444;
+  color: rgba(255,255,255,.7);
 }
 
 .site-nav a + a {
   margin-left: 1em;
 }
 
-.site-header a:hover,
+//.site-header a:hover,
 .posts .post a:hover .post-meta,
 .posts .post a:hover .post-title,
 .posts .post a:hover .post-summary {
@@ -42,6 +43,8 @@
 
 .site-header {
   text-align: center;
+  background-color: $header-bg-color;
+  box-shadow: $color-bg-shadow;
 }
 
 .site-header .site-nav {
@@ -52,3 +55,20 @@
   text-align: center;
   float: none;
 }
+
+.site-header i.fa.fa-code-fork {
+  background-color: #fff;
+  color: $header-bg-color;
+  padding: .3em .5em;
+  border-radius: 3px;
+  border: 2px solid #fff;
+  transition: all 0.2s easy-in;
+  &:hover {
+    background-color: $header-bg-color;
+    color: #fff;
+  }
+}
+
+
+
+

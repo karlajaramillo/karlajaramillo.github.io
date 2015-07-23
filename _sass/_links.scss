@@ -9,3 +9,14 @@ a:active {
   color: $link-hover-color;
   text-decoration: none;
 }
+
+a.btn--blue {
+  border: 2.25px solid $blue;
+  border-radius: 100px;
+  padding: .5em 1.5em;
+  transition: all 0.3s ease-in-out;
+  &:hover {
+    background-color: $blue;
+    color: #fff;
+  }
+}

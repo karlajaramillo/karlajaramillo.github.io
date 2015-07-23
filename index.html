@@ -10,7 +10,9 @@ layout: default
         <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h1 post-title">{{ post.title }}</h3></a>
         {% if post.picture %}
-          <img src="{{ post.picture }}" />
+          <div class="center">
+            <img class="post-img"src="{{ post.picture }}" />
+          </div>
         {% endif %}
         <p class="post-summary">
           {% if post.summary %}
@@ -19,6 +21,7 @@ layout: default
             {{ post.excerpt }}
           {% endif %}
         </p>
+        <a class="btn--blue" href="{{ post.url | prepend: site.baseurl }}">Read more</a>
       </div>
     {% endfor %}
   </div>
