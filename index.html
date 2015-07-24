@@ -21,7 +21,9 @@ layout: default
             {{ post.excerpt }}
           {% endif %}
         </p>
-        <a class="btn--blue" href="{{ post.url | prepend: site.baseurl }}">Read more</a>
+        <div class="wrapper-btn">
+          <a class="btn--blue" href="{{ post.url | prepend: site.baseurl }}">Read more</a>
+        </div>
       </div>
     {% endfor %}
   </div>
