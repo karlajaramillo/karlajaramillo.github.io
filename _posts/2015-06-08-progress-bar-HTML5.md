@@ -67,7 +67,7 @@ To style the progress bar `container`, it’s necessary &nbsp;to set `-webkit-pr
 
 
 ### 3- Add some animation to the progress value 
-Now, let’s add some effect to the value inside the progress bar. So, we’ll need the -webkit-progress-value pseudoclass. You’ll notice that I set a linear gradient effect and an animation too.
+Now, let’s add some effect to the value inside the progress bar. So, we'll need the -webkit-progress-value pseudoclass. You’ll notice that I set a linear gradient effect and an animation too.
 
 {% highlight css lineanchors %}
 .wrapper-bar progress::-webkit-progress-value { 
@@ -128,7 +128,7 @@ Finally, add the keyframe animation using vendor prefixes. I named it “animati
 }
 {% endhighlight %}
 
-I’m really enjoying the learning process that this kanban flow facilitates!
+I'm really enjoying the learning process that this kanban flow facilitates!
 
 View this [live example](http://fiddle.jshell.net/kavajaga/7ads6L1w/).
 [![image](/images/progress-bar/progress-bar.png)](http://fiddle.jshell.net/kavajaga/7ads6L1w/)

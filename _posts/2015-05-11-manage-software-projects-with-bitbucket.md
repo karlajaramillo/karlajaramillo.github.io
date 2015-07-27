@@ -45,7 +45,7 @@ This command will add all modified and new files to the staging area:
 $ git add .
 {% endhighlight %}
 
-If you check the status at this point with `git status, you'll see that there are changes we can now commit.
+If you check the status at this point with `git status`, you'll see that there are changes we can now commit.
 
 ### 6. Commit changes
 Use the `git commit` command to create a snapshot and commit the changes to the top of your history:
@@ -79,7 +79,7 @@ $ git branch
 {% endhighlight %}
 
 ### 10. Edit, add and commit your changes
-Make changes on the new branch. Once you have finished with your changes, add them to the staging area with the `git add` . command, check `status` and finally, `commit these changes:
+Make changes on the new branch. Once you have finished with your changes, add them to the staging area with the `git add` . command, check `status` and finally, `commit` these changes:
 
 {% highlight bash %}
 $ git add .
@@ -112,12 +112,12 @@ If you check your bitbucket repo, you'll see the branches created and commits.
 ![Bitbucket](/images/bitbucket/push-changes.png)
 
 ### 12. Create a pull resquest
-Now, it’s time to create a pull request to merge your new feature. Go to Bitbucket and pick the branch you want to create a pull request, in this case select from feature-style to master:
+Now, it's time to create a pull request to merge your new feature. Go to Bitbucket and pick the branch you want to create a pull request, in this case select from feature-style to master:
 
 ![Bitbucket](/images/bitbucket/merge.png)
 
 ### 13. Merge branches
-If you’re the reviewer, you’ll see an open pull request on your Bitbucket project. Let’s merge it into the master branch by clicking on the <span class="light-gray">merge button</span>.
+If you're the reviewer, you’ll see an open pull request on your Bitbucket project. Let’s merge it into the master branch by clicking on the <span class="light-gray">merge button</span>.
 
 ### 14. Pull changes
 To keep your local master updated, checkout your local master and pull the latest changes from the remote repo:
