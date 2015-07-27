@@ -5,7 +5,7 @@ date:       2015-05-11 11:30:00
 picture:    /images/bitbucket/main.png
 summary:    Software teams usually need a hosted distributed revision control system to collaborate remotely. If your project has less than 5 users and you need to work with private repositories, have a look at Bitbucket. Bitbucket is an attractive option for managing your code in unlimited private repositories for free.
 
-categories: HTML css javascript software collaboration bitbucket
+categories: 
 ---
 ![Main image](/images/bitbucket/main.png)
 

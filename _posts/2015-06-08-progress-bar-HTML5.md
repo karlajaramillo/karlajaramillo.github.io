@@ -5,7 +5,7 @@ date:       2015-06-08 10:30:00
 picture:    /images/progress-bar/main.jpg
 summary:    Two weeks ago our small team started to collaborate through our handmade kanban, which works well so far, and it has helped us to have a clear focus, efficient output and great cycle time. One of the most complex cards for this week included creating some nice progress bars, so I decided to share how I built them with HTML5.
 
-categories: HTML5 css progress-bar web-design 
+categories: 
 ---
 ![Main image](/images/progress-bar/main.jpg)
 

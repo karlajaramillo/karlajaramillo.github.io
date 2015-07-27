@@ -5,7 +5,7 @@ date:       2015-04-14 11:30:00
 picture:    /images/contact-form/main.png
 summary:    One of the most common sections you'll find in a website is a Contact Form, and it was unavoidable that I had to tackle this in my current project. In this post I'd like to share with you an easy way to build a contact form from scratch. 
 
-categories: HTML5 HTML css web-design design 
+categories: 
 ---
 ![Main image](/images/contact-form/main.png)
 

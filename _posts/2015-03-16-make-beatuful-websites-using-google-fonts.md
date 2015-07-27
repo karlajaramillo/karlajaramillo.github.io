@@ -5,7 +5,7 @@ date:       2015-03-16 11:30:00
 picture:    /images/google-fonts/main.jpg
 summary:    It's time to leave behind the most common typefaces, and start using those that really make your web pages more attractive! You’ll be surprised how a beautiful typeface can change the overall user experience.
 
-categories: design typography web-design google-fonts website frontend-developer
+categories: 
 ---
 
 ![Test image](/images/google-fonts/main.jpg)
