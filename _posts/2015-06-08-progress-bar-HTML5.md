@@ -7,7 +7,9 @@ summary:    Two weeks ago our small team started to collaborate through our hand
 
 categories: 
 ---
-![Main image](/images/progress-bar/main.jpg)
+<div class="center">
+  <img src="/images/progress-bar/main.jpg">
+</div>
 
 Two weeks ago our small team started to collaborate through our handmade kanban, which works well so far, and it has helped us to have a clear focus, efficient output and great cycle time. One of the most complex cards for this week included creating some nice progress bars, so I decided to share how I built them with HTML5.
 

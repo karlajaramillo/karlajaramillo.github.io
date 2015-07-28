@@ -1,14 +1,15 @@
 ---
 layout:     post
-title:      Make beatiful websites using Google Fonts
+title:      Make beautiful websites using Google Fonts
 date:       2015-03-16 11:30:00
 picture:    /images/google-fonts/main.jpg
 summary:    It's time to leave behind the most common typefaces, and start using those that really make your web pages more attractive! You’ll be surprised how a beautiful typeface can change the overall user experience.
 
 categories: 
 ---
-
-![Test image](/images/google-fonts/main.jpg)
+<div class="center">
+  <img src="/images/google-fonts/main.jpg">
+</div>
 
 <span class="small">_Image by [Picjumbo](https://picjumbo.com/webdesign-layout-sketching/)_</span>
 

@@ -7,20 +7,17 @@ summary:    In terms of images, sometimes building a web application may turn ou
 
 categories: 
 ---
-<!-- 
-<ins>Underline</ins>, of course.
-Learn with this tutorial to use picture the element to create responsive images for your web applications or web sites ... 
- -->
-
-![Test image](/images/responsive-images/main.jpg)
+<div class="center">
+  <img src="/images/responsive-images/main.jpg">
+</div>
 
 <span class="small">_Image by [Unsplash](https://unsplash.com/)_</span>
 
 In terms of images, sometimes building a web application may turn out to be a difficult process, since there are a wide rage of methods to do it. After trying diverse techniques, this post explains how to deliver efficiently responsive images by making use of the &lt;`picture`&gt; element, &lt;`source`&gt; element, `media` and `srcset` attributes.
 
-Our aim is to provide multiple images for different device resolutions on demand. In some cases, we’ll need not only to make various image sizes available, but to serve images with great detail, which we’ll refer as art direction.
+Our aim is to provide multiple images for different device resolutions on demand. In some cases, we’ll need not only to make various image sizes available, but to serve images with great detail, which we'll refer as art direction.
 
-As mentioned before, users will access our app using multiple devices. We’ll need to test how images are displayed in various screen sizes and resolutions. One of the ways to test responsive design is through[ Chrome DevTools](https://developer.chrome.com/devtools/docs/device-mode). &nbsp;Let’s use an emulated _Google Nexus 5_ phone to introduce some concepts we’ll need later:
+As mentioned before, users will access our app using multiple devices. We'll need to test how images are displayed in various screen sizes and resolutions. One of the ways to test responsive design is through[ Chrome DevTools](https://developer.chrome.com/devtools/docs/device-mode). &nbsp;Let’s use an emulated _Google Nexus 5_ phone to introduce some concepts we’ll need later:
 
 ![Dev tools](/images/responsive-images/1-google.png)
 
@@ -34,7 +31,7 @@ As mentioned before, users will access our app using multiple devices. We’ll n
 
 <span class="small">_Icon by Martin Jordan from the [Noun Project](https://thenounproject.com/)_</span>
 
-Let’s break down the steps to render the best images based on device characteristics :
+Let's break down the steps to render the best images based on device characteristics:
 
 ### 1- Configure viewport
 {% highlight html %}

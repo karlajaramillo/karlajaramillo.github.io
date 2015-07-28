@@ -11,10 +11,10 @@ url:         "http://karlajaramillo.github.io"
 google_analytics:
 
 # Optional features
-animated:           false
+animated:           true
 show_related_posts: false
 show_post_footers:  false
-show_social_icons:  true
+show_social_icons:  false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
@@ -41,7 +41,7 @@ share_twitter: true
 share_googleplus: false
 share_linkedin: true
 share_digg: false
-share_tumblr: false
+share_tumblr: true
 share_reddit: false
 share_stumbleupon: false
 share_hackernews: false

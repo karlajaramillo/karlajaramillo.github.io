@@ -7,7 +7,9 @@ summary:    Software teams usually need a hosted distributed revision control sy
 
 categories: 
 ---
-![Main image](/images/bitbucket/main.png)
+<div class="center">
+  <img src="/images/bitbucket/main.png">
+</div>
 
 Software teams usually need a hosted distributed revision control system to collaborate remotely. If your project has less than 5 users and you need to work with private repositories, have a look at [Bitbucket](https://bitbucket.org/). Bitbucket is an attractive option for managing your code in unlimited private repositories for free.
 

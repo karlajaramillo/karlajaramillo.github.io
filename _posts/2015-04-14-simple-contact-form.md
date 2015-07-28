@@ -7,13 +7,15 @@ summary:    One of the most common sections you'll find in a website is a Contac
 
 categories: 
 ---
-![Main image](/images/contact-form/main.png)
+<div class="center">
+  <img src="/images/contact-form/main.png">
+</div>
 
 One of the most common sections you'll find in a website is a Contact Form, and it was unavoidable that I had to tackle this in my current project. In this post I'd like to share with you an easy way to build a contact form from scratch. 
 
 Let’s start with your HTML document:
 
-* First, you can include Google Fonts to make more attractive your contact form ([see how to do it in my previous post](http://karlajaramillo.com/post/108907348097/make-beautiful-websites-using-google-fonts)).
+* First, you can include Google Fonts to make more attractive your contact form ([see how to do it in my previous post](http://karlajaramillo.github.io/2015/03/16/make-beatuful-websites-using-google-fonts/)).
 
 * Add a &lt;`form`&gt; element, which will wrap different elements and attributes of the contact form. Apply _action_ (URL to which the information will be sent) and _method_ (HTTP method to submit the data) attributes to the form element.
 
