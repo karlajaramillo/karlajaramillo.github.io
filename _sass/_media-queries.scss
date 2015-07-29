@@ -48,17 +48,14 @@
   }
 }
 
-@media screen and (min-width: $viewport-custom) {
-  .related-img-container {
-    width: 20vw;
-  }
+@media screen and (min-width: $viewport-medium) {
+  .post {
+    &.flex-item {
+     width: 33.3333%;
+    }
+  } 
 }
 
-@media screen and (min-width: $viewport-custom-x-large) {
-  .related-img-container {
-    width: 255px;
-  }
-}
 
 
 

@@ -55,6 +55,13 @@
 }
 
 .related-img-container {
-  width: 40vw;
+  //width: 40vw;
   margin: 0 .5rem 1.5rem .5rem;
 }
+
+.post {
+  &.flex-item {
+    width: 50%;
+  }
+}
+
