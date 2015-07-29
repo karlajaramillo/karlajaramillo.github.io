@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      The most awesome web resources you will love. Icons, photos and colors for free
+title:      The most awesome web resources you will love
 date:       2015-02-10 11:30:00
 picture:    /images/resources/main.jpg
 summary:    After finished my HTML &amp; CSS course by Shay Howe, I felt I had the foundations to start building my first web project. When tackling a project like this, it’s not strange that new questions come up, and I needed to start somewhere. I realized that I needed to find free, inspirational resources for my project needs, but that’s not so easy as you can imagine.

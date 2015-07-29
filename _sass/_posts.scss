@@ -47,4 +47,13 @@
   border-bottom: thin solid #f3f3f3;
 }
 
+.related-post-flex {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
 
+.related-img-container {
+  width: 40vw;
+  margin: 0 .5rem 1.5rem .5rem;
+}

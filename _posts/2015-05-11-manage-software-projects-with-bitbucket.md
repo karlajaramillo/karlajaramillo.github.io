@@ -2,14 +2,16 @@
 layout:     post
 title:      Manage software projects on Bitbucket
 date:       2015-05-11 11:30:00
-picture:    /images/bitbucket/main.png
+picture:    /images/bitbucket/main.jpg
 summary:    Software teams usually need a hosted distributed revision control system to collaborate remotely. If your project has less than 5 users and you need to work with private repositories, have a look at Bitbucket. Bitbucket is an attractive option for managing your code in unlimited private repositories for free.
 
 categories: 
 ---
 <div class="center">
-  <img src="/images/bitbucket/main.png">
+  <img src="/images/bitbucket/main.jpg">
 </div>
+
+<span class="small">_Image by [Startup Stock Photos](http://startupstockphotos.com/)_</span>
 
 Software teams usually need a hosted distributed revision control system to collaborate remotely. If your project has less than 5 users and you need to work with private repositories, have a look at [Bitbucket](https://bitbucket.org/). Bitbucket is an attractive option for managing your code in unlimited private repositories for free.
 

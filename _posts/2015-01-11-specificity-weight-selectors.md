@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Starting my resolution list for 2015. Specificity weight of selectors
+title:      Specificity weight of selectors
 date:       2015-01-11 11:30:00
 picture:    /images/selectors/main.png
 summary:    With the new year the people usually make a list of resolutions, in my case an important one will be to dive deeper into coding. It sounds easy to just change my career into programming, but I soon ran into questions like which language should I choose for a start. Since I'd like to build web and mobile applications, I decided to start with CSS and HTML.
@@ -11,7 +11,7 @@ categories:
   <img src="/images/selectors/main.png">
 </div>
 
-<span class="small">_Image by [Startup Stock Photos](http://startupstockphotos.com/)_</span>
+<span class="small">_Image by [Unsplash](https://unsplash.com/)_</span>
 
 With the new year the people usually make a list of resolutions, in my case an important one will be to dive deeper into coding.
 
