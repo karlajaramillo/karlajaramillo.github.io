@@ -51,7 +51,7 @@
 @media screen and (min-width: $viewport-medium) {
   .post {
     &.flex-item {
-     width: 33.3333%;
+     width: calc(33.333333% - 2%);
     }
   } 
 }
