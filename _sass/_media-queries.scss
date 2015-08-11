@@ -52,7 +52,7 @@
   .post {
     &.flex-item {
      max-width: 33.333333%;
-     flex-basis: 33.333333%;
+     flex-basis: calc(33.333333% -  4%);
     }
   } 
 }

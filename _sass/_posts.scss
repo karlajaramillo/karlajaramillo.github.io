@@ -56,14 +56,14 @@
 
 .related-img-container {
   margin-bottom: 1.5rem;
-  margin-right: 4%;
-  margin-left: 4%;
 }
 
 .post {
   &.flex-item {
     max-width: 50%;
-    flex: 1 1 50%;
+    flex: 1 1 calc(50% - 4%);
+    margin-right: 2%;
+    margin-left: 2%;
   }
 }
 
