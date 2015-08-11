@@ -51,16 +51,19 @@
 .related-post-flex {
   display: flex;
   flex-flow: row wrap;
-  justify-content: space-between;
+  justify-content: flex-start;
 }
 
 .related-img-container {
   margin-bottom: 1.5rem;
+  margin-right: 4%;
+  margin-left: 4%;
 }
 
 .post {
   &.flex-item {
-    width: calc(50% - 2%);
+    max-width: 50%;
+    flex: 1 1 50%;
   }
 }
 
