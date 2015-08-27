@@ -6,6 +6,11 @@ picture:    /images/responsive-images/main.jpg
 summary:    In terms of images, sometimes building a web application may turn out to be a difficult process, since there are a wide rage of methods to do it. After trying diverse techniques, this post explains how to deliver efficiently responsive images by making use of the picture element, source element, media and srcset attributes.
 
 categories: 
+redirect_from:
+  - /post/124564309042
+  - /post/124564309042/
+  - /post/124564309042/responsive-images
+  - /post/124564309042/responsive-images/
 ---
 <div class="center">
   <img src="/images/responsive-images/main.jpg">
