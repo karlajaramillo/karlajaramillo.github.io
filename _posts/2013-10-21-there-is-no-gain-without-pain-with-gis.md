@@ -6,6 +6,11 @@ picture:    /images/gis/main.jpg
 summary:    I spent last weekend trying to make an app using ArcGIS Online and I would like to tell you my story. Starting from scratch, I wanted to create a map to show the rate of crime in the U.S related to the unemployment rate in 2012, based on FBI data. So, I downloaded all related data from official sites.
 
 categories: 
+redirect_from:
+  - /post/64133972270
+  - /post/64133972270/
+  - /post/64133972270/there-is-no-gain-without-pain-with-gis
+  - /post/64133972270/there-is-no-gain-without-pain-with-gis/
 ---
 <div class="center">
   <img src="/images/gis/main.jpg">
