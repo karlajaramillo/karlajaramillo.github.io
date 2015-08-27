@@ -6,6 +6,11 @@ picture:    /images/james/main.png
 summary:    After the World Cup and having become a soccer fan, I thought it would be a great opportunity to combine my love for maps with my Colombian roots. For this project I chose CartoDB, a cloud platform that lets users build map applications in a very easy way. Their new open-source tool named Odyssey.js let me create “The story of James Rodriguez”.
 
 categories: 
+redirect_from:
+  - /post/92418958547
+  - /post/92418958547/
+  - /post/92418958547/the-story-of-james-rodriguez
+  - /post/92418958547/the-story-of-james-rodriguez/
 ---
 <div class="center">
   <img src="/images/james/main.png">
