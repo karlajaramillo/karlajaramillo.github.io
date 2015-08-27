@@ -6,6 +6,11 @@ picture:    /images/contact-form/main.png
 summary:    One of the most common sections you'll find in a website is a Contact Form, and it was unavoidable that I had to tackle this in my current project. In this post I'd like to share with you an easy way to build a contact form from scratch. 
 
 categories: 
+redirect_from:
+  - /post/109767703457
+  - /post/109767703457/
+  - /post/109767703457/simple-contact-form
+  - /post/109767703457/simple-contact-form/
 ---
 <div class="center">
   <img src="/images/contact-form/main.png">
