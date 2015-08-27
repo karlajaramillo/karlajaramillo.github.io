@@ -6,6 +6,11 @@ picture:    /images/master/main.jpeg
 summary:    Last week I started the Master GIS at Esri Spain. This is a great challenge, I feel this will change the way I work and how I see the world.
 
 categories: 
+redirect_from:
+  - /post/63274080325
+  - /post/63274080325/
+  - /post/63274080325/making-a-good-start-in-gis
+  - /post/63274080325/making-a-good-start-in-gis/
 ---
 <div class="center">
   <img src="/images/master/main.jpeg">
