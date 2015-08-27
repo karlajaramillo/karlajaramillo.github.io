@@ -6,6 +6,11 @@ picture:    /images/selectors/main.png
 summary:    With the new year the people usually make a list of resolutions, in my case an important one will be to dive deeper into coding. It sounds easy to just change my career into programming, but I soon ran into questions like which language should I choose for a start. Since I'd like to build web and mobile applications, I decided to start with CSS and HTML.
 
 categories: 
+redirect_from:
+  - /post/107821996237
+  - /post/107821996237/
+  - /post/107821996237/specificity-weight-selectors
+  - /post/107821996237/specificity-weight-selectors/
 ---
 <div class="center">
   <img src="/images/selectors/main.png">
