@@ -6,6 +6,11 @@ picture:    /images/google-fonts/main.jpg
 summary:    It's time to leave behind the most common typefaces, and start using those that really make your web pages more attractive! You’ll be surprised how a beautiful typeface can change the overall user experience.
 
 categories: 
+redirect_from:
+  - /post/108907348097
+  - /post/108907348097/
+  - /post/108907348097/make-beautiful-websites-using-google-fonts
+  - /post/108907348097/make-beautiful-websites-using-google-fonts/
 ---
 <div class="center">
   <img src="/images/google-fonts/main.jpg">
