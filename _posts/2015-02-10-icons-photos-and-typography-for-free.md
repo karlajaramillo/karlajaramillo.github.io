@@ -6,6 +6,11 @@ picture:    /images/resources/main.jpg
 summary:    After finished my HTML &amp; CSS course by Shay Howe, I felt I had the foundations to start building my first web project. When tackling a project like this, it’s not strange that new questions come up, and I needed to start somewhere. I realized that I needed to find free, inspirational resources for my project needs, but that’s not so easy as you can imagine.
 
 categories: 
+redirect_from:
+  - /post/108563110162
+  - /post/108563110162/
+  - /post/108563110162/the-most-awesome-web-resources-you-will-love
+  - /post/108563110162/the-most-awesome-web-resources-you-will-love/
 ---
 <div class="center">
   <img src="/images/resources/main.jpg">
