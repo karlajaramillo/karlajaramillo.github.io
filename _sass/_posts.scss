@@ -61,7 +61,7 @@
 .post {
   &.flex-item {
     max-width: 50%;
-    flex: 1 1 calc(50% - 4%);
+    flex: 0 1 calc(50% - 4%);
     margin-right: 2%;
     margin-left: 2%;
   }
